@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:22-12-2024
+## Date:25-05-2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -35,7 +35,7 @@ Figma
 ## CODE:
 ## PAGE 1
 ```html
-<div data-layer="iPhone 16 - 1" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer=" iPhone 16 - 1" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="WELCOME TO OUR ANNUAL SPORTS MEET" class="WelcomeToOurAnnualSportsMeet" style="width: 500px; height: 68px; left: 0px; top: 201px; position: absolute; color: white; font-size: 23px; font-family: Jua; font-weight: 400; word-wrap: break-word">WELCOME TO OUR ANNUAL SPORTS MEET</div>
@@ -90,7 +90,7 @@ Figma
 
 ## PAGE 4
 ```html
-<div data-layer="iPhone 16 - 1" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer="iPhone 16 -4" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="CONTACT" class="Contact" style="width: 500px; height: 68px; left: 129px; top: 155px; position: absolute; color: white; font-size: 36px; font-family: Jua; font-weight: 400; word-wrap: break-word">CONTACT</div>
@@ -98,8 +98,8 @@ Figma
 ```
 
 ## OUTPUT:
-![figma](https://github.com/user-attachments/assets/173b7460-1219-4e32-bbc1-d0952eef3f89)
 
+![alt text](figma.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
